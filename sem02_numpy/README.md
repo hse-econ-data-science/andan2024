@@ -2,8 +2,7 @@
 
 Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/andan2024/blob/main/sem02_numpy/sem02_numpy.ipynb)
 
-- Для этого семинара мы составили [контест на numpy.](https://official.contest.yandex.ru/contest/25960/enter/) При желании вы можете попробовать порешать задачки из него. **[ru]**
-
+- Для этого семинара мы составили [контест на numpy.](https://contest.yandex.ru/contest/25960/problems/) При желании вы можете попробовать порешать задачки из него. **[ru]**
 
 __Что ещё посмотреть?__ 
 
