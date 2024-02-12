@@ -8,6 +8,7 @@
 - [Видеолекция про pandas](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl&index=1) от ODS и её [конспект на хабре](https://habr.com/ru/company/ods/blog/322626/) **[ru]**
 - [Видеолекция про визуализацию](https://www.youtube.com/watch?v=uwQat1TV0JM&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl&index=2) от ODS и её [конспект на хабре](https://habr.com/ru/company/ods/blog/323210/) **[ru]**
 - [Семинар по pandas с ФКН,](https://github.com/esokolov/ml-course-hse/blob/master/2022-fall/seminars/sem01-pandas.ipynb) можно почитать его как туториал **[ru]**
+- [Туториал по визуализации с ФКН](https://nbviewer.org/github/esokolov/ml-course-hse/blob/master/2023-fall/seminars/sem02-charts.ipynb) **[ru]**
 - [Туториалы в официальной документации](https://pandas.pydata.org/docs/getting_started/10min.html) **[en]**
 - [Pandas cheet shit](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) **[en]**
 - [Интерактивное введение в pandas от Datacamp (надо в него залогиниться)](https://www.datacamp.com/tutorial/pandas-tutorial-dataframe-python) **[en]**
