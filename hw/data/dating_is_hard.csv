@@ -1,0 +1,1001 @@
+,age,is_heavy_drinker,height,sex,smokes,location,offspring
+uid_1,27,False,64,f,True,san francisco california,no opinion
+uid_2,38,False,65,f,False,oakland california,wants kids
+uid_3,31,False,70,m,True,san francisco california,does not have kids
+uid_4,29,False,66,m,False,martinez california,does not have kids
+uid_5,30,False,69,m,True,san francisco california,no opinion
+uid_6,23,False,73,m,False,castro valley california,does not have kids but might want them
+uid_7,32,False,62,f,False,san francisco california,does not have kids but might want them
+uid_8,59,False,73,m,False,daly city california,does not want kids
+uid_9,29,False,74,m,False,oakland california,does not have kids
+uid_10,20,False,63,f,False,san rafael california,no opinion
+uid_11,20,False,72,m,False,berkeley california,does not have kids and does not want any
+uid_12,27,False,63,f,False,san francisco california,no opinion
+uid_13,27,False,71,m,True,san francisco california,no opinion
+uid_14,24,False,68,f,True,san anselmo california,no opinion
+uid_15,24,False,62,f,False,san francisco california,no opinion
+uid_16,25,False,65,f,True,south san francisco california,no opinion
+uid_17,25,False,71,f,True,mill valley california,no opinion
+uid_18,19,True,69,m,False,pleasant hill california,no opinion
+uid_19,19,False,67,f,True,san francisco california,does not have kids
+uid_20,19,False,72,m,False,belmont california,does not want kids
+uid_21,32,True,72,m,True,redwood city california,has kids
+uid_22,23,False,70,m,False,san francisco california,no opinion
+uid_23,40,False,64,f,False,oakland california,no opinion
+uid_24,39,False,66,m,False,oakland california,has kids and might want more
+uid_25,38,False,67,m,True,alameda california,no opinion
+uid_26,42,False,64,f,True,san lorenzo california,no opinion
+uid_27,27,False,63,f,False,hayward california,has a kid
+uid_28,49,False,70,m,False,oakland california,no opinion
+uid_29,35,False,70,m,False,oakland california,no opinion
+uid_30,26,False,73,m,True,san rafael california,no opinion
+uid_31,24,False,71,f,True,mill valley california,no opinion
+uid_32,25,False,70,m,True,vallejo california,no opinion
+uid_33,52,False,70,m,False,castro valley california,has kids
+uid_34,64,False,67,f,False,berkeley california,has kids
+uid_35,58,False,72,m,False,palo alto california,has kids
+uid_36,20,False,73,m,False,hayward california,no opinion
+uid_37,27,False,72,m,False,san francisco california,no opinion
+uid_38,33,False,67,m,True,san francisco california,no opinion
+uid_39,23,True,63,f,False,oakland california,no opinion
+uid_40,28,False,67,m,True,san francisco california,no opinion
+uid_41,33,False,74,m,False,hayward california,no opinion
+uid_42,32,False,67,f,False,san francisco california,no opinion
+uid_43,39,False,60,f,False,san pablo california,does not have kids but wants them
+uid_44,32,False,69,m,False,san francisco california,no opinion
+uid_45,27,False,72,m,True,san francisco california,no opinion
+uid_46,26,False,74,m,False,oakland california,does not have kids but might want them
+uid_47,19,False,73,m,True,san francisco california,no opinion
+uid_48,43,False,74,m,False,san francisco california,does not have kids but might want them
+uid_49,28,False,72,m,True,oakland california,no opinion
+uid_50,29,False,72,m,False,san francisco california,no opinion
+uid_51,22,False,68,m,False,san francisco california,no opinion
+uid_52,32,False,66,m,False,san francisco california,no opinion
+uid_53,45,False,62,f,False,larkspur california,has a kid and might want more
+uid_54,28,False,66,m,True,san francisco california,no opinion
+uid_55,24,False,65,f,False,san francisco california,no opinion
+uid_56,27,False,61,f,False,san francisco california,no opinion
+uid_57,25,False,66,f,False,berkeley california,does not want kids
+uid_58,31,True,71,m,False,san leandro california,does not have kids
+uid_59,23,False,73,m,False,berkeley california,does not have kids
+uid_60,34,True,68,f,False,san francisco california,no opinion
+uid_61,28,False,68,f,False,san francisco california,no opinion
+uid_62,45,False,72,m,False,san francisco california,no opinion
+uid_63,21,False,69,m,True,san francisco california,no opinion
+uid_64,32,False,74,m,False,menlo park california,no opinion
+uid_65,37,False,69,m,True,oakland california,no opinion
+uid_66,35,False,75,m,True,san francisco california,no opinion
+uid_67,23,False,65,f,False,san francisco california,no opinion
+uid_68,25,False,74,m,False,menlo park california,no opinion
+uid_69,25,False,67,m,False,el sobrante california,no opinion
+uid_70,20,False,68,m,True,berkeley california,no opinion
+uid_71,23,False,70,m,False,berkeley california,no opinion
+uid_72,33,False,69,m,True,oakland california,no opinion
+uid_73,56,False,69,f,False,redwood city california,no opinion
+uid_74,29,False,69,m,True,burlingame california,no opinion
+uid_75,22,False,74,m,True,san pablo california,no opinion
+uid_76,30,False,74,m,False,south san francisco california,no opinion
+uid_77,45,False,68,f,True,san francisco california,no opinion
+uid_78,27,False,67,f,False,san francisco california,no opinion
+uid_79,26,False,68,m,True,san francisco california,no opinion
+uid_80,27,False,68,f,False,san francisco california,no opinion
+uid_81,37,False,64,m,False,san francisco california,no opinion
+uid_82,41,True,68,m,False,san francisco california,no opinion
+uid_83,29,False,67,f,False,san francisco california,no opinion
+uid_84,25,False,70,m,False,emeryville california,no opinion
+uid_85,24,False,62,f,True,san francisco california,does not have kids but might want them
+uid_86,33,False,70,m,False,oakland california,does not have kids but wants them
+uid_87,38,False,67,m,False,emeryville california,no opinion
+uid_88,35,False,72,m,False,san francisco california,does not have kids but wants them
+uid_89,29,False,69,m,False,san francisco california,no opinion
+uid_90,19,False,70,m,True,san francisco california,no opinion
+uid_91,27,False,67,f,False,san francisco california,no opinion
+uid_92,27,False,70,m,False,san francisco california,no opinion
+uid_93,48,False,65,m,False,san francisco california,no opinion
+uid_94,25,False,62,f,False,oakland california,does not have kids
+uid_95,35,True,70,m,False,san francisco california,no opinion
+uid_96,21,False,70,f,False,san francisco california,no opinion
+uid_97,39,False,71,m,True,sausalito california,no opinion
+uid_98,31,False,74,m,False,san francisco california,does not have kids and does not want any
+uid_99,24,True,62,f,False,san francisco california,no opinion
+uid_100,32,False,70,m,False,palo alto california,no opinion
+uid_101,31,True,71,m,False,san francisco california,does not have kids but wants them
+uid_102,22,False,71,m,False,san lorenzo california,does not want kids
+uid_103,41,False,69,m,False,martinez california,has a kid
+uid_104,32,False,64,f,True,hercules california,no opinion
+uid_105,27,False,67,m,False,berkeley california,does not have kids
+uid_106,44,False,67,m,False,berkeley california,does not have kids but might want them
+uid_107,21,False,64,m,False,san francisco california,no opinion
+uid_108,26,False,83,m,True,burlingame california,no opinion
+uid_109,39,False,71,m,False,san francisco california,no opinion
+uid_110,20,False,64,f,False,san francisco california,does not have kids but might want them
+uid_111,19,False,72,m,False,hayward california,no opinion
+uid_112,18,False,66,m,True,richmond california,no opinion
+uid_113,25,False,75,m,True,san francisco california,no opinion
+uid_114,26,False,70,m,True,berkeley california,no opinion
+uid_115,23,False,62,f,False,san francisco california,no opinion
+uid_116,25,False,63,f,True,san francisco california,no opinion
+uid_117,27,False,66,f,False,san francisco california,no opinion
+uid_118,27,False,70,m,True,san francisco california,does not have kids
+uid_119,23,False,71,m,True,san mateo california,no opinion
+uid_120,24,True,69,m,True,san francisco california,no opinion
+uid_121,26,False,71,m,False,san francisco california,no opinion
+uid_122,22,False,74,m,True,san leandro california,does not have kids but might want them
+uid_123,43,False,70,m,True,san francisco california,no opinion
+uid_124,40,False,63,f,True,san francisco california,no opinion
+uid_125,28,False,68,m,False,pinole california,no opinion
+uid_126,22,False,71,m,False,palo alto california,no opinion
+uid_127,57,False,73,m,False,fairfax california,does not have kids and does not want any
+uid_128,27,False,69,m,True,oakland california,no opinion
+uid_129,28,False,62,f,True,walnut creek california,does not have kids
+uid_130,28,False,67,m,False,san mateo california,does not have kids but wants them
+uid_131,25,False,67,m,False,san francisco california,no opinion
+uid_132,32,False,73,m,True,berkeley california,does not have kids
+uid_133,66,False,70,m,True,san mateo california,has a kid but does not want more
+uid_134,22,False,66,m,True,san francisco california,no opinion
+uid_135,42,False,72,m,False,san francisco california,no opinion
+uid_136,34,False,67,m,False,san francisco california,does not have kids
+uid_137,27,False,64,f,False,san francisco california,no opinion
+uid_138,43,False,72,m,False,hayward california,no opinion
+uid_139,20,True,69,f,False,berkeley california,no opinion
+uid_140,23,False,69,m,True,san francisco california,no opinion
+uid_141,28,False,70,m,True,san francisco california,no opinion
+uid_142,23,False,72,m,True,hayward california,no opinion
+uid_143,34,False,68,f,False,san francisco california,no opinion
+uid_144,18,False,64,f,False,san francisco california,does not have kids but wants them
+uid_145,49,False,64,m,True,san francisco california,no opinion
+uid_146,18,False,70,m,False,oakland california,no opinion
+uid_147,19,False,59,f,False,san francisco california,has a kid
+uid_148,25,False,69,m,True,san francisco california,no opinion
+uid_149,21,False,66,m,True,oakland california,no opinion
+uid_150,41,False,72,m,False,san bruno california,does not have kids but wants them
+uid_151,24,False,73,m,False,san francisco california,does not have kids but wants them
+uid_152,19,False,72,m,False,redwood city california,no opinion
+uid_153,22,False,73,m,True,berkeley california,no opinion
+uid_154,37,False,70,m,False,san francisco california,no opinion
+uid_155,22,False,73,m,True,san francisco california,no opinion
+uid_156,27,False,70,m,False,oakland california,no opinion
+uid_157,36,False,72,m,False,san carlos california,no opinion
+uid_158,25,False,61,f,False,san francisco california,does not have kids
+uid_159,33,True,76,m,False,mill valley california,no opinion
+uid_160,28,False,71,m,False,san francisco california,no opinion
+uid_161,20,False,70,m,True,el sobrante california,no opinion
+uid_162,21,False,65,f,False,san francisco california,no opinion
+uid_163,33,False,67,m,False,san mateo california,no opinion
+uid_164,64,False,72,m,False,san francisco california,no opinion
+uid_165,22,False,70,m,False,berkeley california,does not have kids
+uid_166,26,False,63,f,False,san francisco california,no opinion
+uid_167,33,False,70,f,True,san francisco california,no opinion
+uid_168,30,False,64,f,True,san francisco california,no opinion
+uid_169,37,False,65,f,True,san francisco california,has a kid
+uid_170,110,False,67,f,True,daly city california,no opinion
+uid_171,22,False,65,f,True,oakland california,no opinion
+uid_172,30,False,64,f,False,san francisco california,no opinion
+uid_173,19,True,71,f,True,san francisco california,no opinion
+uid_174,23,False,71,m,False,emeryville california,no opinion
+uid_175,22,False,65,f,False,walnut creek california,does not have kids
+uid_176,46,True,71,m,False,san francisco california,does not want kids
+uid_177,34,False,75,m,True,san francisco california,no opinion
+uid_178,26,False,67,m,False,san francisco california,does not have kids
+uid_179,25,False,64,f,True,oakland california,no opinion
+uid_180,19,False,67,f,False,san francisco california,no opinion
+uid_181,24,False,66,f,False,san francisco california,no opinion
+uid_182,21,True,62,f,False,berkeley california,no opinion
+uid_183,25,False,71,f,False,san francisco california,no opinion
+uid_184,27,False,68,m,True,san francisco california,no opinion
+uid_185,21,False,66,f,True,novato california,does not have kids
+uid_186,27,False,74,m,False,san francisco california,might want kids
+uid_187,46,False,60,f,False,san francisco california,no opinion
+uid_188,34,False,67,f,True,san mateo california,no opinion
+uid_189,23,False,68,m,True,berkeley california,no opinion
+uid_190,30,False,69,m,False,san francisco california,no opinion
+uid_191,20,False,65,f,True,san mateo california,no opinion
+uid_192,28,True,62,f,False,san francisco california,does not want kids
+uid_193,41,False,69,m,False,corte madera california,no opinion
+uid_194,22,False,72,m,True,san francisco california,no opinion
+uid_195,43,True,71,m,False,oakland california,has kids
+uid_196,22,False,60,m,False,vallejo california,has a kid
+uid_197,27,False,71,m,False,oakland california,does not have kids but might want them
+uid_198,25,False,68,f,False,san francisco california,no opinion
+uid_199,28,False,63,f,False,palo alto california,no opinion
+uid_200,20,False,63,f,False,el cerrito california,does not have kids
+uid_201,24,False,63,f,True,san francisco california,no opinion
+uid_202,30,False,64,f,False,berkeley california,does not have kids but wants them
+uid_203,43,False,67,m,True,oakland california,no opinion
+uid_204,28,False,74,m,False,richmond california,does not have kids
+uid_205,20,False,65,f,False,berkeley california,no opinion
+uid_206,23,False,64,f,False,stanford california,no opinion
+uid_207,33,False,65,f,False,alameda california,no opinion
+uid_208,21,False,63,f,False,berkeley california,no opinion
+uid_209,34,False,74,m,False,san francisco california,no opinion
+uid_210,25,False,73,m,False,berkeley california,no opinion
+uid_211,29,False,73,m,True,stanford california,no opinion
+uid_212,27,False,65,f,False,san pablo california,does not have kids but wants them
+uid_213,25,False,70,m,False,san francisco california,no opinion
+uid_214,28,False,66,f,False,san francisco california,no opinion
+uid_215,31,False,70,m,False,san francisco california,does not have kids
+uid_216,37,False,66,f,False,san francisco california,no opinion
+uid_217,31,False,65,f,False,san francisco california,no opinion
+uid_218,26,False,62,f,True,san francisco california,no opinion
+uid_219,22,False,72,m,False,san francisco california,does not have kids
+uid_220,28,False,67,f,False,san francisco california,does not have kids but wants them
+uid_221,30,False,68,f,True,san francisco california,does not have kids
+uid_222,43,False,67,f,False,san francisco california,no opinion
+uid_223,32,False,69,m,False,san francisco california,no opinion
+uid_224,27,False,67,m,True,san leandro california,no opinion
+uid_225,33,False,70,m,False,san francisco california,no opinion
+uid_226,35,False,64,f,True,san francisco california,no opinion
+uid_227,40,False,69,m,False,san francisco california,does not have kids but might want them
+uid_228,33,False,73,m,True,palo alto california,no opinion
+uid_229,57,False,65,f,False,san francisco california,no opinion
+uid_230,18,False,65,f,True,castro valley california,no opinion
+uid_231,28,False,71,m,False,san francisco california,does not have kids
+uid_232,18,False,72,m,False,pleasant hill california,no opinion
+uid_233,29,False,70,m,False,oakland california,no opinion
+uid_234,20,False,73,m,False,san francisco california,no opinion
+uid_235,26,False,68,m,True,alameda california,has a kid
+uid_236,29,True,70,m,True,menlo park california,no opinion
+uid_237,27,False,68,m,False,san francisco california,no opinion
+uid_238,25,False,72,m,True,oakland california,no opinion
+uid_239,26,False,61,f,False,emeryville california,no opinion
+uid_240,28,False,62,f,False,san francisco california,no opinion
+uid_241,29,True,64,f,False,san francisco california,does not have kids and does not want any
+uid_242,34,False,72,m,True,oakland california,no opinion
+uid_243,23,False,67,f,False,san francisco california,no opinion
+uid_244,19,False,65,f,False,san francisco california,does not have kids but wants them
+uid_245,26,False,60,f,False,berkeley california,no opinion
+uid_246,37,False,72,m,False,berkeley california,no opinion
+uid_247,29,False,63,f,False,oakland california,no opinion
+uid_248,23,False,59,f,False,san francisco california,does not have kids but might want them
+uid_249,29,False,64,f,True,san francisco california,does not have kids
+uid_250,28,False,64,f,True,san francisco california,no opinion
+uid_251,22,False,64,f,False,san francisco california,no opinion
+uid_252,32,False,66,f,False,san francisco california,does not have kids
+uid_253,46,False,68,f,False,burlingame california,no opinion
+uid_254,29,False,61,f,False,oakland california,no opinion
+uid_255,24,False,66,f,False,belvedere tiburon california,does not have kids
+uid_256,32,False,65,f,False,san francisco california,no opinion
+uid_257,23,False,67,f,False,san francisco california,no opinion
+uid_258,31,False,66,f,True,daly city california,no opinion
+uid_259,29,False,66,f,False,walnut creek california,no opinion
+uid_260,30,False,64,f,False,oakland california,does not have kids
+uid_261,23,False,63,f,True,oakland california,no opinion
+uid_262,34,False,66,f,False,san francisco california,no opinion
+uid_263,26,False,69,m,False,san francisco california,no opinion
+uid_264,25,True,69,m,False,san francisco california,does not have kids
+uid_265,41,False,73,m,False,pleasant hill california,wants kids
+uid_266,26,False,67,m,True,oakland california,no opinion
+uid_267,47,False,71,f,False,novato california,no opinion
+uid_268,21,False,67,f,False,oakland california,has a kid
+uid_269,22,False,66,f,False,san francisco california,no opinion
+uid_270,26,False,73,m,False,berkeley california,no opinion
+uid_271,23,False,73,m,True,hayward california,no opinion
+uid_272,24,False,68,m,True,palo alto california,no opinion
+uid_273,35,False,73,m,False,san francisco california,no opinion
+uid_274,22,False,71,m,True,berkeley california,no opinion
+uid_275,23,False,67,m,False,san francisco california,no opinion
+uid_276,40,False,65,m,True,san francisco california,no opinion
+uid_277,43,False,65,f,False,san francisco california,has kids but does not want more
+uid_278,24,False,70,m,True,san francisco california,no opinion
+uid_279,21,False,67,m,False,novato california,no opinion
+uid_280,33,False,70,m,False,berkeley california,no opinion
+uid_281,32,False,66,f,False,san francisco california,does not have kids
+uid_282,68,False,73,m,False,emeryville california,no opinion
+uid_283,31,False,74,m,False,menlo park california,does not have kids
+uid_284,65,False,64,f,False,san rafael california,does not want kids
+uid_285,25,False,67,m,True,palo alto california,does not have kids
+uid_286,21,False,61,f,False,san francisco california,does not have kids
+uid_287,24,False,67,f,True,san francisco california,no opinion
+uid_288,22,False,69,m,False,san francisco california,no opinion
+uid_289,20,False,69,m,True,richmond california,no opinion
+uid_290,31,False,67,m,True,san francisco california,no opinion
+uid_291,28,False,69,m,True,san francisco california,no opinion
+uid_292,32,False,71,m,False,oakland california,no opinion
+uid_293,27,False,65,m,True,san francisco california,does not have kids
+uid_294,27,False,68,f,False,martinez california,no opinion
+uid_295,34,False,67,f,False,san francisco california,no opinion
+uid_296,28,False,70,m,False,san francisco california,no opinion
+uid_297,30,False,71,m,True,san francisco california,no opinion
+uid_298,27,False,65,f,True,oakland california,no opinion
+uid_299,34,False,73,m,True,san rafael california,no opinion
+uid_300,28,False,72,m,False,oakland california,does not have kids but wants them
+uid_301,22,True,74,m,False,san francisco california,might want kids
+uid_302,19,False,69,m,True,berkeley california,no opinion
+uid_303,26,False,68,m,False,stanford california,no opinion
+uid_304,36,False,66,f,False,oakland california,no opinion
+uid_305,28,False,67,m,False,san francisco california,no opinion
+uid_306,23,False,65,f,False,berkeley california,no opinion
+uid_307,31,False,73,m,True,walnut creek california,no opinion
+uid_308,33,False,64,f,False,san francisco california,no opinion
+uid_309,33,False,69,m,False,san francisco california,no opinion
+uid_310,21,False,64,f,True,berkeley california,no opinion
+uid_311,27,False,63,f,True,san francisco california,no opinion
+uid_312,28,False,67,f,True,oakland california,no opinion
+uid_313,21,True,65,f,True,oakland california,does not have kids and does not want any
+uid_314,23,False,66,f,False,vallejo california,does not want kids
+uid_315,19,False,64,f,True,oakland california,does not have kids but wants them
+uid_316,24,False,65,f,False,san francisco california,no opinion
+uid_317,48,False,69,m,True,san francisco california,no opinion
+uid_318,23,False,71,m,True,san francisco california,no opinion
+uid_319,52,False,69,m,True,berkeley california,no opinion
+uid_320,35,False,67,f,True,daly city california,no opinion
+uid_321,41,False,71,m,False,san francisco california,no opinion
+uid_322,36,False,74,m,True,walnut creek california,no opinion
+uid_323,23,True,70,m,False,san leandro california,no opinion
+uid_324,42,False,69,m,False,oakland california,has a kid and might want more
+uid_325,31,False,70,m,False,hayward california,does not have kids but wants them
+uid_326,65,False,64,f,False,berkeley california,has kids but does not want more
+uid_327,27,False,70,m,False,san francisco california,does not have kids
+uid_328,32,False,71,m,True,oakland california,no opinion
+uid_329,28,False,69,m,False,berkeley california,no opinion
+uid_330,22,True,71,m,True,san francisco california,no opinion
+uid_331,24,False,70,m,True,san francisco california,no opinion
+uid_332,37,False,63,f,True,oakland california,no opinion
+uid_333,19,False,66,f,True,san francisco california,no opinion
+uid_334,47,False,64,f,False,san francisco california,no opinion
+uid_335,26,False,62,f,False,stanford california,no opinion
+uid_336,59,False,60,f,False,el sobrante california,has a kid
+uid_337,26,False,79,m,True,oakland california,no opinion
+uid_338,28,False,63,f,False,san francisco california,no opinion
+uid_339,21,False,63,f,True,san francisco california,no opinion
+uid_340,47,False,71,m,True,brisbane california,has kids
+uid_341,46,False,60,f,False,san carlos california,has kids
+uid_342,38,False,74,m,False,san francisco california,does not have kids but wants them
+uid_343,29,False,71,m,True,san francisco california,does not have kids but wants them
+uid_344,24,False,62,f,False,san francisco california,no opinion
+uid_345,24,False,65,f,True,san francisco california,no opinion
+uid_346,18,False,63,f,False,san francisco california,does not have kids
+uid_347,24,False,72,m,True,palo alto california,does not have kids but might want them
+uid_348,20,False,66,m,True,berkeley california,no opinion
+uid_349,24,False,70,m,False,san francisco california,no opinion
+uid_350,34,False,70,m,False,oakland california,no opinion
+uid_351,35,False,71,m,True,emeryville california,no opinion
+uid_352,34,True,65,m,True,berkeley california,no opinion
+uid_353,25,False,69,m,False,san francisco california,no opinion
+uid_354,33,False,67,f,False,san francisco california,no opinion
+uid_355,20,False,72,m,True,oakland california,no opinion
+uid_356,19,False,64,m,False,westlake california,no opinion
+uid_357,21,False,62,f,False,palo alto california,no opinion
+uid_358,23,False,69,m,False,san francisco california,no opinion
+uid_359,42,False,64,m,False,daly city california,no opinion
+uid_360,29,False,64,f,False,burlingame california,no opinion
+uid_361,20,False,73,m,True,oakland california,no opinion
+uid_362,29,False,65,m,False,san francisco california,no opinion
+uid_363,28,False,69,f,False,san francisco california,no opinion
+uid_364,23,False,72,m,False,palo alto california,does not want kids
+uid_365,24,False,66,f,False,san francisco california,does not have kids but wants them
+uid_366,25,False,70,m,True,san francisco california,does not have kids
+uid_367,23,False,69,m,True,berkeley california,no opinion
+uid_368,22,False,69,f,False,berkeley california,no opinion
+uid_369,29,False,64,f,False,san mateo california,no opinion
+uid_370,23,False,72,m,True,san pablo california,has a kid
+uid_371,26,False,63,f,False,belmont california,does not have kids but might want them
+uid_372,22,True,64,f,True,san mateo california,might want kids
+uid_373,31,False,71,m,True,san francisco california,no opinion
+uid_374,43,False,71,m,False,san francisco california,no opinion
+uid_375,28,False,62,f,True,oakland california,no opinion
+uid_376,43,False,72,m,True,moraga california,does not want kids
+uid_377,19,False,70,m,True,hayward california,no opinion
+uid_378,44,False,72,m,True,san francisco california,no opinion
+uid_379,37,False,70,m,True,oakland california,no opinion
+uid_380,23,False,72,m,True,san francisco california,no opinion
+uid_381,22,False,69,m,False,san francisco california,does not have kids
+uid_382,22,False,68,f,True,san francisco california,does not have kids
+uid_383,24,False,66,f,False,oakland california,no opinion
+uid_384,26,False,64,f,False,berkeley california,no opinion
+uid_385,21,False,72,m,False,atherton california,no opinion
+uid_386,22,False,66,f,False,san francisco california,does not have kids
+uid_387,22,False,72,m,False,san leandro california,no opinion
+uid_388,20,False,71,m,False,emeryville california,no opinion
+uid_389,24,False,72,m,False,oakland california,no opinion
+uid_390,29,False,70,m,True,san francisco california,does not have kids but might want them
+uid_391,27,False,64,f,True,san francisco california,does not have kids
+uid_392,30,False,74,m,False,san rafael california,does not have kids but might want them
+uid_393,23,False,73,m,False,oakland california,no opinion
+uid_394,22,False,66,f,True,san francisco california,no opinion
+uid_395,49,False,66,f,True,san francisco california,does not want kids
+uid_396,25,False,69,m,False,emeryville california,no opinion
+uid_397,28,False,66,f,False,palo alto california,no opinion
+uid_398,38,False,69,m,False,san mateo california,has a kid
+uid_399,22,True,72,m,False,oakland california,does not have kids and does not want any
+uid_400,28,False,68,m,False,san mateo california,no opinion
+uid_401,37,False,72,m,False,oakland california,has kids
+uid_402,26,False,68,f,True,san francisco california,does not have kids
+uid_403,35,False,72,m,True,vallejo california,has kids
+uid_404,50,False,66,f,False,san leandro california,does not have kids but might want them
+uid_405,36,False,69,m,False,oakland california,has kids
+uid_406,35,False,62,f,False,alameda california,no opinion
+uid_407,24,False,67,m,False,san francisco california,no opinion
+uid_408,39,True,72,m,True,oakland california,does not have kids but might want them
+uid_409,47,False,75,m,False,oakland california,no opinion
+uid_410,40,False,63,f,False,oakland california,no opinion
+uid_411,36,False,64,f,True,menlo park california,no opinion
+uid_412,20,False,68,m,False,san francisco california,does not have kids
+uid_413,24,False,68,m,False,san francisco california,does not want kids
+uid_414,20,False,63,f,False,berkeley california,no opinion
+uid_415,25,True,69,f,False,san francisco california,no opinion
+uid_416,26,True,66,f,True,walnut creek california,no opinion
+uid_417,21,False,60,f,True,burlingame california,no opinion
+uid_418,30,False,72,m,True,san francisco california,no opinion
+uid_419,26,True,64,f,False,san francisco california,does not have kids
+uid_420,31,True,70,m,True,san francisco california,no opinion
+uid_421,29,False,62,f,False,menlo park california,no opinion
+uid_422,36,False,70,m,True,san francisco california,no opinion
+uid_423,59,False,60,f,False,san rafael california,has a kid but does not want more
+uid_424,44,False,67,f,False,oakland california,no opinion
+uid_425,28,False,68,m,True,san francisco california,no opinion
+uid_426,29,False,69,m,False,san francisco california,no opinion
+uid_427,32,False,66,f,True,oakland california,no opinion
+uid_428,27,False,71,m,False,berkeley california,no opinion
+uid_429,58,False,69,m,False,san francisco california,does not want kids
+uid_430,27,False,76,m,False,palo alto california,no opinion
+uid_431,57,False,74,m,False,benicia california,no opinion
+uid_432,33,False,73,m,False,san francisco california,no opinion
+uid_433,25,False,72,m,True,san francisco california,no opinion
+uid_434,30,False,68,f,False,oakland california,no opinion
+uid_435,51,False,76,m,False,berkeley california,does not have kids
+uid_436,27,False,70,m,False,berkeley california,no opinion
+uid_437,29,False,67,f,True,berkeley california,no opinion
+uid_438,36,False,65,f,False,berkeley california,no opinion
+uid_439,22,False,68,m,False,berkeley california,no opinion
+uid_440,52,False,60,m,False,berkeley california,does not have kids but might want them
+uid_441,22,False,62,f,False,berkeley california,does not have kids but wants them
+uid_442,28,True,68,f,False,berkeley california,no opinion
+uid_443,38,False,63,f,False,san francisco california,no opinion
+uid_444,27,True,67,m,True,san francisco california,no opinion
+uid_445,26,False,69,m,True,berkeley california,no opinion
+uid_446,58,False,61,f,False,oakland california,does not have kids
+uid_447,38,False,66,f,True,san francisco california,no opinion
+uid_448,31,False,66,m,False,san francisco california,no opinion
+uid_449,48,False,65,m,False,san francisco california,has a kid
+uid_450,28,False,65,f,True,oakland california,no opinion
+uid_451,31,False,63,f,False,san bruno california,no opinion
+uid_452,43,False,66,f,False,san francisco california,no opinion
+uid_453,28,False,60,f,False,stanford california,no opinion
+uid_454,32,False,71,m,False,san francisco california,no opinion
+uid_455,31,True,75,m,False,berkeley california,no opinion
+uid_456,21,False,71,m,True,hayward california,does not have kids but wants them
+uid_457,44,False,73,m,True,san francisco california,has kids
+uid_458,21,False,74,m,True,redwood city california,no opinion
+uid_459,25,False,65,m,True,oakland california,does not have kids
+uid_460,34,False,73,m,False,san francisco california,no opinion
+uid_461,28,False,77,m,False,san francisco california,does not want kids
+uid_462,32,False,60,f,True,oakland california,does not have kids but might want them
+uid_463,21,False,72,m,False,san pablo california,does not have kids but wants them
+uid_464,36,True,69,m,True,san francisco california,does not have kids
+uid_465,38,False,69,m,False,novato california,no opinion
+uid_466,20,False,74,m,False,berkeley california,no opinion
+uid_467,25,False,64,f,False,san mateo california,does not have kids but might want them
+uid_468,30,False,61,f,False,san francisco california,no opinion
+uid_469,24,False,65,f,True,san francisco california,does not want kids
+uid_470,25,False,65,f,True,san francisco california,no opinion
+uid_471,26,False,65,f,False,san francisco california,does not have kids
+uid_472,32,False,75,m,True,san bruno california,no opinion
+uid_473,23,False,65,f,False,berkeley california,no opinion
+uid_474,27,False,74,m,True,san francisco california,does not have kids but might want them
+uid_475,26,False,63,f,False,berkeley california,no opinion
+uid_476,32,False,71,m,True,san francisco california,does not have kids
+uid_477,21,False,65,f,False,san francisco california,no opinion
+uid_478,21,False,74,m,False,san francisco california,no opinion
+uid_479,31,False,65,f,False,oakland california,no opinion
+uid_480,32,False,70,m,True,san francisco california,no opinion
+uid_481,24,False,70,f,True,san francisco california,no opinion
+uid_482,49,False,66,m,True,san francisco california,no opinion
+uid_483,23,False,69,f,False,san francisco california,no opinion
+uid_484,40,False,72,m,False,san francisco california,does not have kids
+uid_485,22,False,68,m,False,martinez california,no opinion
+uid_486,37,False,72,m,True,san francisco california,has a kid
+uid_487,24,False,65,f,False,oakland california,no opinion
+uid_488,47,False,69,f,False,san leandro california,has kids
+uid_489,29,False,66,f,False,san francisco california,no opinion
+uid_490,42,False,68,f,False,el sobrante california,does not have kids
+uid_491,21,False,70,m,False,san francisco california,no opinion
+uid_492,33,False,71,f,False,oakland california,no opinion
+uid_493,28,False,61,f,False,hayward california,no opinion
+uid_494,37,False,68,m,False,san francisco california,no opinion
+uid_495,40,False,72,m,False,san francisco california,no opinion
+uid_496,22,False,72,m,False,richmond california,no opinion
+uid_497,28,False,67,m,False,walnut creek california,no opinion
+uid_498,23,True,65,m,False,hayward california,does not have kids but might want them
+uid_499,30,False,69,m,True,san francisco california,no opinion
+uid_500,19,False,72,m,False,mill valley california,no opinion
+uid_501,31,False,61,f,False,san francisco california,no opinion
+uid_502,24,False,67,m,True,oakland california,no opinion
+uid_503,23,False,74,m,True,menlo park california,no opinion
+uid_504,41,False,75,m,False,hayward california,has kids
+uid_505,26,False,66,m,False,san francisco california,no opinion
+uid_506,38,False,70,m,True,san francisco california,no opinion
+uid_507,26,False,67,m,True,san francisco california,no opinion
+uid_508,23,False,68,m,False,san francisco california,does not have kids
+uid_509,57,False,72,m,False,san francisco california,does not want kids
+uid_510,26,False,68,m,True,san bruno california,no opinion
+uid_511,23,False,62,f,True,vallejo california,has a kid and might want more
+uid_512,27,False,63,f,True,san francisco california,no opinion
+uid_513,25,False,68,m,True,redwood city california,no opinion
+uid_514,27,False,71,m,False,stanford california,does not have kids but wants them
+uid_515,27,False,67,f,True,san francisco california,no opinion
+uid_516,24,False,72,m,False,san francisco california,no opinion
+uid_517,35,False,75,m,True,palo alto california,no opinion
+uid_518,31,False,70,m,True,stanford california,no opinion
+uid_519,25,False,71,m,False,berkeley california,does not have kids
+uid_520,34,True,72,m,False,san francisco california,no opinion
+uid_521,29,False,70,m,False,daly city california,no opinion
+uid_522,26,False,70,m,False,palo alto california,no opinion
+uid_523,26,False,72,m,True,berkeley california,no opinion
+uid_524,20,True,74,m,True,berkeley california,no opinion
+uid_525,26,False,63,f,False,san francisco california,no opinion
+uid_526,65,False,68,f,False,san francisco california,does not have kids
+uid_527,30,False,74,m,True,milwaukee wisconsin,no opinion
+uid_528,42,False,63,f,False,san francisco california,no opinion
+uid_529,23,False,75,m,False,menlo park california,no opinion
+uid_530,18,True,66,f,True,san rafael california,no opinion
+uid_531,61,False,66,f,False,pinole california,has kids but does not want more
+uid_532,44,False,70,m,True,san francisco california,no opinion
+uid_533,21,False,65,m,False,burlingame california,no opinion
+uid_534,30,False,72,m,True,san carlos california,no opinion
+uid_535,26,False,66,f,False,san francisco california,no opinion
+uid_536,26,False,72,m,False,san francisco california,no opinion
+uid_537,21,False,65,f,False,el granada california,does not have kids and does not want any
+uid_538,24,False,64,f,True,san francisco california,no opinion
+uid_539,27,True,65,f,True,san francisco california,no opinion
+uid_540,29,False,70,f,False,san francisco california,does not have kids but might want them
+uid_541,34,False,62,f,False,oakland california,no opinion
+uid_542,21,False,75,m,True,berkeley california,no opinion
+uid_543,44,False,70,m,True,san francisco california,no opinion
+uid_544,51,False,65,f,False,berkeley california,no opinion
+uid_545,25,False,66,f,False,san francisco california,no opinion
+uid_546,29,True,66,m,False,san francisco california,does not have kids but wants them
+uid_547,23,False,63,f,True,san francisco california,no opinion
+uid_548,39,True,71,m,True,san francisco california,no opinion
+uid_549,25,False,65,m,False,san francisco california,does not have kids
+uid_550,32,False,61,f,True,san francisco california,has a kid and might want more
+uid_551,36,False,69,m,True,vallejo california,no opinion
+uid_552,24,False,74,m,False,san francisco california,no opinion
+uid_553,20,False,71,m,True,novato california,no opinion
+uid_554,23,False,65,m,False,san francisco california,no opinion
+uid_555,33,False,69,m,True,san francisco california,no opinion
+uid_556,25,False,71,m,False,berkeley california,might want kids
+uid_557,27,False,70,m,False,san francisco california,no opinion
+uid_558,24,False,68,f,True,berkeley california,no opinion
+uid_559,26,True,67,f,False,oakland california,no opinion
+uid_560,20,False,72,m,True,san rafael california,no opinion
+uid_561,21,False,66,f,True,san francisco california,does not have kids
+uid_562,38,False,72,m,True,san francisco california,no opinion
+uid_563,27,False,68,f,True,san francisco california,no opinion
+uid_564,51,False,68,m,False,kentfield california,does not want kids
+uid_565,32,False,72,m,True,san francisco california,no opinion
+uid_566,38,False,70,m,True,san francisco california,does not have kids but wants them
+uid_567,21,False,75,m,True,san francisco california,no opinion
+uid_568,56,False,64,f,False,el cerrito california,does not have kids
+uid_569,21,False,70,m,False,oakland california,no opinion
+uid_570,39,False,72,m,True,vallejo california,no opinion
+uid_571,43,False,74,m,True,san francisco california,no opinion
+uid_572,26,False,69,m,False,san francisco california,no opinion
+uid_573,24,False,67,m,True,pacifica california,does not have kids but might want them
+uid_574,20,False,73,m,False,martinez california,does not have kids
+uid_575,21,False,70,m,True,castro valley california,no opinion
+uid_576,47,False,73,m,False,redwood city california,no opinion
+uid_577,42,True,67,m,False,san francisco california,no opinion
+uid_578,23,False,63,f,True,san francisco california,no opinion
+uid_579,33,False,69,f,False,san francisco california,does not have kids but might want them
+uid_580,27,False,72,m,True,san francisco california,no opinion
+uid_581,39,False,62,f,False,san francisco california,does not have kids
+uid_582,24,False,61,f,False,san francisco california,no opinion
+uid_583,28,False,63,f,False,palo alto california,no opinion
+uid_584,53,False,61,f,True,oakland california,has kids but does not want more
+uid_585,26,False,64,f,False,san francisco california,no opinion
+uid_586,27,False,63,f,False,san francisco california,no opinion
+uid_587,26,False,70,m,False,alameda california,no opinion
+uid_588,30,False,70,m,False,san francisco california,no opinion
+uid_589,26,False,69,m,False,san francisco california,no opinion
+uid_590,32,False,71,m,True,san francisco california,no opinion
+uid_591,24,False,66,m,False,redwood city california,does not have kids
+uid_592,22,False,66,f,False,atherton california,no opinion
+uid_593,26,False,65,f,False,oakland california,does not have kids
+uid_594,20,False,67,m,False,oakland california,does not have kids
+uid_595,21,False,69,m,False,berkeley california,no opinion
+uid_596,27,False,67,f,False,san francisco california,no opinion
+uid_597,24,False,75,m,True,san francisco california,no opinion
+uid_598,23,False,69,f,False,lafayette california,no opinion
+uid_599,32,False,66,m,False,san mateo california,no opinion
+uid_600,21,False,68,m,False,vallejo california,has kids but does not want more
+uid_601,34,False,66,f,False,san francisco california,no opinion
+uid_602,49,False,69,m,True,redwood city california,no opinion
+uid_603,25,False,67,m,True,alameda california,no opinion
+uid_604,32,False,64,f,False,san francisco california,no opinion
+uid_605,24,False,66,m,False,walnut creek california,does not have kids but might want them
+uid_606,39,False,67,f,True,san francisco california,no opinion
+uid_607,37,False,74,m,True,san rafael california,no opinion
+uid_608,33,False,67,f,False,mill valley california,does not have kids
+uid_609,26,False,66,f,False,oakland california,does not have kids but wants them
+uid_610,22,False,69,m,False,berkeley california,no opinion
+uid_611,22,False,73,m,False,fairfax california,no opinion
+uid_612,24,False,70,m,True,san francisco california,no opinion
+uid_613,29,False,70,m,False,alameda california,no opinion
+uid_614,29,False,67,f,False,oakland california,no opinion
+uid_615,26,True,72,m,False,san francisco california,no opinion
+uid_616,44,False,59,f,True,martinez california,has kids
+uid_617,32,False,63,f,False,berkeley california,does not have kids but wants them
+uid_618,20,False,65,f,True,atherton california,no opinion
+uid_619,19,False,69,m,False,berkeley california,does not have kids
+uid_620,24,False,64,f,False,san francisco california,no opinion
+uid_621,56,False,77,f,True,el cerrito california,no opinion
+uid_622,26,False,67,m,True,san francisco california,no opinion
+uid_623,48,False,70,m,False,south san francisco california,has a kid but does not want more
+uid_624,31,False,74,m,True,san francisco california,no opinion
+uid_625,57,False,69,f,False,novato california,has a kid
+uid_626,24,False,64,f,True,redwood city california,no opinion
+uid_627,32,False,68,f,False,berkeley california,no opinion
+uid_628,25,False,71,f,True,redwood city california,no opinion
+uid_629,25,False,68,m,True,hayward california,no opinion
+uid_630,28,False,67,m,False,san francisco california,does not have kids
+uid_631,50,False,74,m,True,oakland california,no opinion
+uid_632,49,False,65,m,False,san leandro california,has kids
+uid_633,30,True,74,m,True,san francisco california,no opinion
+uid_634,26,False,68,f,False,oakland california,no opinion
+uid_635,58,False,66,f,False,pacifica california,no opinion
+uid_636,32,False,66,f,False,san francisco california,no opinion
+uid_637,29,False,70,m,True,alameda california,does not have kids but might want them
+uid_638,21,False,66,f,False,san francisco california,does not have kids
+uid_639,24,False,65,m,False,east palo alto california,no opinion
+uid_640,31,False,70,m,False,berkeley california,no opinion
+uid_641,25,False,68,f,True,south san francisco california,no opinion
+uid_642,25,False,70,m,True,walnut creek california,no opinion
+uid_643,20,True,70,m,False,san francisco california,no opinion
+uid_644,28,False,64,f,False,berkeley california,no opinion
+uid_645,30,False,60,f,False,san francisco california,no opinion
+uid_646,29,False,70,m,False,san francisco california,does not have kids and does not want any
+uid_647,49,False,64,f,False,castro valley california,no opinion
+uid_648,22,False,69,m,True,san lorenzo california,no opinion
+uid_649,23,False,63,f,False,san francisco california,no opinion
+uid_650,22,False,65,f,False,san francisco california,no opinion
+uid_651,23,False,64,f,False,san mateo california,does not have kids but wants them
+uid_652,27,False,64,f,False,berkeley california,no opinion
+uid_653,23,False,63,f,False,san francisco california,no opinion
+uid_654,39,False,75,m,True,walnut creek california,no opinion
+uid_655,24,False,67,m,False,vallejo california,no opinion
+uid_656,21,False,77,m,False,oakland california,no opinion
+uid_657,18,False,63,f,True,san anselmo california,no opinion
+uid_658,26,False,69,m,False,san francisco california,does not have kids but wants them
+uid_659,35,False,72,m,True,fremont california,no opinion
+uid_660,30,False,74,m,False,burlingame california,does not have kids but might want them
+uid_661,23,False,75,m,True,san francisco california,no opinion
+uid_662,26,False,71,m,False,berkeley california,does not have kids
+uid_663,20,False,73,m,False,emeryville california,no opinion
+uid_664,28,False,60,f,False,oakland california,no opinion
+uid_665,36,False,72,m,True,alameda california,no opinion
+uid_666,27,False,66,m,False,san francisco california,no opinion
+uid_667,57,False,66,f,False,san francisco california,no opinion
+uid_668,42,True,70,m,True,berkeley california,does not have kids
+uid_669,20,False,77,m,False,san francisco california,wants kids
+uid_670,24,False,71,m,True,vallejo california,does not have kids but might want them
+uid_671,25,False,63,f,True,san francisco california,no opinion
+uid_672,30,False,65,f,False,san francisco california,does not have kids
+uid_673,22,False,66,f,True,palo alto california,no opinion
+uid_674,20,False,72,m,False,san francisco california,no opinion
+uid_675,23,False,64,f,False,san francisco california,no opinion
+uid_676,44,False,66,f,False,san francisco california,has a kid
+uid_677,34,False,70,m,False,san francisco california,has a kid and wants more
+uid_678,26,False,67,m,True,emeryville california,does not have kids but wants them
+uid_679,25,False,70,m,False,stanford california,does not want kids
+uid_680,46,False,67,f,False,san francisco california,does not want kids
+uid_681,30,False,64,f,False,emeryville california,no opinion
+uid_682,27,False,65,m,True,san francisco california,does not have kids but might want them
+uid_683,26,False,66,f,True,oakland california,no opinion
+uid_684,40,False,65,f,False,san francisco california,no opinion
+uid_685,21,False,72,m,True,san francisco california,does not want kids
+uid_686,24,False,68,m,False,san pablo california,no opinion
+uid_687,53,False,66,f,False,san lorenzo california,no opinion
+uid_688,29,False,64,m,True,oakland california,no opinion
+uid_689,24,False,59,f,False,san francisco california,does not have kids
+uid_690,25,False,61,f,True,san francisco california,no opinion
+uid_691,54,False,69,m,True,san rafael california,no opinion
+uid_692,21,False,65,m,True,berkeley california,no opinion
+uid_693,51,False,65,m,True,san francisco california,does not want kids
+uid_694,22,False,75,m,True,san francisco california,no opinion
+uid_695,25,False,60,f,False,walnut creek california,no opinion
+uid_696,22,False,66,m,True,hercules california,no opinion
+uid_697,27,False,70,m,True,san francisco california,no opinion
+uid_698,47,False,68,f,False,palo alto california,has kids
+uid_699,26,False,66,m,True,san francisco california,no opinion
+uid_700,26,False,73,m,True,san leandro california,does not have kids but might want them
+uid_701,27,False,69,m,True,pleasant hill california,no opinion
+uid_702,46,False,71,m,False,oakland california,does not have kids and does not want any
+uid_703,20,False,66,f,True,burlingame california,no opinion
+uid_704,33,False,72,m,False,san francisco california,no opinion
+uid_705,30,False,71,m,False,san francisco california,no opinion
+uid_706,42,True,70,m,True,martinez california,no opinion
+uid_707,34,False,69,f,False,san francisco california,no opinion
+uid_708,21,False,71,m,False,san francisco california,does not have kids but wants them
+uid_709,30,False,67,f,False,san francisco california,does not have kids but wants them
+uid_710,22,False,69,f,True,berkeley california,no opinion
+uid_711,20,True,70,f,False,san francisco california,no opinion
+uid_712,24,False,62,f,True,san francisco california,does not have kids
+uid_713,25,False,68,m,False,san francisco california,no opinion
+uid_714,26,False,65,f,True,san francisco california,does not have kids
+uid_715,23,False,72,m,False,san francisco california,does not have kids
+uid_716,34,False,72,m,False,redwood city california,no opinion
+uid_717,24,False,67,m,False,san francisco california,does not have kids but might want them
+uid_718,25,False,63,f,True,san francisco california,no opinion
+uid_719,65,False,64,m,True,martinez california,does not have kids and does not want any
+uid_720,30,False,63,f,True,pacifica california,no opinion
+uid_721,36,False,65,m,True,san leandro california,has kids
+uid_722,25,False,72,m,True,san francisco california,no opinion
+uid_723,27,True,63,f,True,oakland california,does not have kids but might want them
+uid_724,29,True,68,f,False,oakland california,no opinion
+uid_725,35,False,61,f,False,san mateo california,does not have kids
+uid_726,30,False,76,m,True,san francisco california,has kids
+uid_727,31,False,66,m,False,san francisco california,no opinion
+uid_728,40,False,72,m,False,san francisco california,no opinion
+uid_729,24,True,62,f,False,berkeley california,does not have kids
+uid_730,37,False,64,f,False,emeryville california,does not have kids but wants them
+uid_731,21,False,64,f,False,el sobrante california,does not have kids but might want them
+uid_732,27,False,65,m,False,san francisco california,does not have kids
+uid_733,26,False,71,m,False,san francisco california,no opinion
+uid_734,27,False,70,m,True,san francisco california,no opinion
+uid_735,18,False,75,m,False,hayward california,does not have kids
+uid_736,30,False,74,m,False,berkeley california,no opinion
+uid_737,18,False,67,m,True,oakland california,no opinion
+uid_738,22,False,70,m,True,san francisco california,no opinion
+uid_739,29,False,70,m,False,daly city california,no opinion
+uid_740,20,False,67,m,False,castro valley california,no opinion
+uid_741,25,False,74,m,False,castro valley california,does not have kids but might want them
+uid_742,22,False,75,m,False,san francisco california,no opinion
+uid_743,32,False,71,m,True,san mateo california,no opinion
+uid_744,24,False,69,m,False,berkeley california,does not have kids
+uid_745,22,False,69,m,False,san francisco california,no opinion
+uid_746,46,False,63,f,False,oakland california,has kids but does not want more
+uid_747,30,False,65,f,False,berkeley california,no opinion
+uid_748,26,False,67,f,False,san francisco california,no opinion
+uid_749,28,False,65,f,False,san francisco california,does not have kids
+uid_750,24,False,76,m,True,san francisco california,no opinion
+uid_751,38,False,72,m,False,san francisco california,no opinion
+uid_752,59,False,73,m,True,berkeley california,does not want kids
+uid_753,20,False,71,m,True,castro valley california,no opinion
+uid_754,19,False,62,f,True,san lorenzo california,no opinion
+uid_755,45,False,72,m,False,san francisco california,has a kid
+uid_756,38,False,68,m,False,fairfax california,no opinion
+uid_757,37,False,75,m,True,san francisco california,no opinion
+uid_758,19,False,67,m,False,san francisco california,no opinion
+uid_759,18,False,64,f,False,hayward california,wants kids
+uid_760,22,False,66,f,False,san francisco california,no opinion
+uid_761,38,False,61,f,True,san francisco california,no opinion
+uid_762,31,True,69,m,True,berkeley california,no opinion
+uid_763,31,False,71,m,True,san francisco california,no opinion
+uid_764,24,False,71,m,True,san francisco california,no opinion
+uid_765,25,False,64,f,True,san francisco california,no opinion
+uid_766,22,False,66,m,True,san francisco california,no opinion
+uid_767,22,False,67,m,True,san francisco california,no opinion
+uid_768,26,False,69,m,True,san francisco california,no opinion
+uid_769,26,False,66,m,True,albany california,no opinion
+uid_770,25,False,68,f,False,el cerrito california,no opinion
+uid_771,45,False,68,m,False,san francisco california,does not have kids
+uid_772,37,False,65,f,False,oakland california,no opinion
+uid_773,19,False,73,m,False,san francisco california,does not have kids and does not want any
+uid_774,40,False,61,f,False,walnut creek california,does not have kids but wants them
+uid_775,41,False,64,f,False,oakland california,no opinion
+uid_776,22,True,65,f,True,san francisco california,does not have kids
+uid_777,29,False,67,f,True,san francisco california,does not have kids
+uid_778,46,False,70,m,True,san francisco california,no opinion
+uid_779,32,True,70,f,False,oakland california,does not have kids but might want them
+uid_780,22,False,65,f,True,berkeley california,does not have kids
+uid_781,31,False,62,f,False,san francisco california,no opinion
+uid_782,50,False,70,m,False,berkeley california,has a kid
+uid_783,25,False,64,f,False,san francisco california,no opinion
+uid_784,40,False,71,m,False,san francisco california,no opinion
+uid_785,41,False,67,m,False,san francisco california,does not have kids
+uid_786,18,False,71,m,True,palo alto california,does not have kids but might want them
+uid_787,29,False,71,m,True,daly city california,no opinion
+uid_788,30,False,63,f,False,san francisco california,no opinion
+uid_789,24,False,71,m,False,san francisco california,does not have kids
+uid_790,30,False,66,f,False,palo alto california,no opinion
+uid_791,66,True,72,m,False,san francisco california,does not want kids
+uid_792,24,False,71,m,True,san anselmo california,no opinion
+uid_793,24,False,69,m,False,stanford california,no opinion
+uid_794,29,False,62,f,True,vallejo california,does not have kids but wants them
+uid_795,32,False,70,m,False,san francisco california,no opinion
+uid_796,30,False,65,m,False,alameda california,no opinion
+uid_797,24,False,66,m,True,san francisco california,no opinion
+uid_798,32,False,69,m,True,oakland california,no opinion
+uid_799,30,False,66,f,False,san francisco california,has a kid and wants more
+uid_800,22,False,67,m,False,martinez california,does not have kids but wants them
+uid_801,23,True,73,m,True,san francisco california,no opinion
+uid_802,24,False,74,m,False,san francisco california,does not have kids
+uid_803,25,True,64,f,True,oakland california,no opinion
+uid_804,22,False,69,f,True,berkeley california,does not have kids
+uid_805,22,False,72,m,True,san francisco california,no opinion
+uid_806,26,False,73,m,False,san francisco california,does not have kids
+uid_807,25,False,71,m,True,orinda california,no opinion
+uid_808,31,False,64,f,False,san francisco california,no opinion
+uid_809,24,False,64,f,True,olema california,no opinion
+uid_810,31,False,73,m,True,oakland california,no opinion
+uid_811,37,False,60,m,True,oakland california,no opinion
+uid_812,34,False,65,f,False,oakland california,no opinion
+uid_813,26,True,72,m,True,berkeley california,does not have kids
+uid_814,47,False,69,f,False,martinez california,does not want kids
+uid_815,23,False,68,m,False,stanford california,no opinion
+uid_816,21,False,68,m,False,san francisco california,no opinion
+uid_817,30,False,76,m,False,half moon bay california,no opinion
+uid_818,23,False,63,f,True,san francisco california,no opinion
+uid_819,25,False,66,m,False,san francisco california,no opinion
+uid_820,34,False,74,m,True,san francisco california,no opinion
+uid_821,25,True,68,m,True,daly city california,no opinion
+uid_822,27,False,74,m,False,berkeley california,no opinion
+uid_823,34,False,67,f,True,san francisco california,no opinion
+uid_824,24,False,63,f,False,berkeley california,no opinion
+uid_825,31,False,67,f,False,oakland california,no opinion
+uid_826,26,True,63,f,True,san francisco california,no opinion
+uid_827,31,False,66,f,False,oakland california,no opinion
+uid_828,28,False,62,f,True,san francisco california,no opinion
+uid_829,26,False,65,f,False,palo alto california,no opinion
+uid_830,33,False,65,f,False,oakland california,does not have kids
+uid_831,23,False,69,m,False,daly city california,no opinion
+uid_832,19,True,58,f,False,san mateo california,does not have kids
+uid_833,25,True,65,f,False,san francisco california,does not have kids
+uid_834,23,False,71,m,False,berkeley california,no opinion
+uid_835,32,False,72,m,True,san francisco california,no opinion
+uid_836,42,False,69,f,False,richmond california,does not have kids but wants them
+uid_837,23,False,73,m,False,san francisco california,does not have kids
+uid_838,30,False,70,m,False,san bruno california,no opinion
+uid_839,22,False,70,m,False,belmont california,no opinion
+uid_840,24,False,67,f,False,berkeley california,no opinion
+uid_841,24,True,70,m,False,san francisco california,no opinion
+uid_842,48,False,75,m,True,oakland california,no opinion
+uid_843,29,False,73,m,True,berkeley california,no opinion
+uid_844,31,False,67,f,True,redwood city california,no opinion
+uid_845,27,False,67,f,False,san francisco california,does not have kids but wants them
+uid_846,27,True,77,f,True,san francisco california,has kids
+uid_847,19,False,69,m,True,san lorenzo california,no opinion
+uid_848,31,False,70,m,False,san francisco california,no opinion
+uid_849,31,False,73,m,True,san francisco california,no opinion
+uid_850,26,False,73,m,False,san francisco california,no opinion
+uid_851,24,False,73,m,False,san francisco california,no opinion
+uid_852,27,False,69,m,True,san francisco california,no opinion
+uid_853,20,True,71,m,True,san francisco california,no opinion
+uid_854,26,False,66,f,False,walnut creek california,does not want kids
+uid_855,30,False,67,f,True,san rafael california,no opinion
+uid_856,45,False,70,m,False,san francisco california,does not have kids and does not want any
+uid_857,25,False,72,m,False,san francisco california,does not have kids
+uid_858,21,False,64,f,False,daly city california,no opinion
+uid_859,31,False,62,f,False,san francisco california,no opinion
+uid_860,20,False,66,f,True,berkeley california,no opinion
+uid_861,30,False,70,m,False,novato california,no opinion
+uid_862,29,False,67,m,False,san francisco california,does not have kids but might want them
+uid_863,18,True,64,f,False,emeryville california,does not have kids but might want them
+uid_864,23,False,62,f,True,san francisco california,no opinion
+uid_865,33,False,63,f,False,san francisco california,no opinion
+uid_866,25,False,71,m,False,alameda california,does not have kids
+uid_867,24,False,64,f,False,san francisco california,no opinion
+uid_868,31,False,60,f,False,san francisco california,no opinion
+uid_869,20,False,68,m,True,san francisco california,does not have kids but wants them
+uid_870,22,True,77,m,True,pinole california,no opinion
+uid_871,21,False,66,f,True,san francisco california,no opinion
+uid_872,22,False,73,m,True,san francisco california,does not want kids
+uid_873,26,True,74,m,True,sausalito california,no opinion
+uid_874,27,False,73,m,False,lafayette california,does not have kids but wants them
+uid_875,26,True,78,m,True,san francisco california,no opinion
+uid_876,26,False,69,m,False,berkeley california,no opinion
+uid_877,31,False,72,m,False,berkeley california,no opinion
+uid_878,41,False,70,m,False,martinez california,no opinion
+uid_879,35,False,67,m,True,san bruno california,no opinion
+uid_880,23,False,69,m,True,san pablo california,no opinion
+uid_881,18,False,62,f,False,oakland california,does not have kids but might want them
+uid_882,26,True,70,m,False,san francisco california,no opinion
+uid_883,26,False,76,m,False,martinez california,no opinion
+uid_884,43,False,67,m,False,san francisco california,no opinion
+uid_885,26,False,72,m,False,san francisco california,no opinion
+uid_886,29,False,72,m,True,pinole california,no opinion
+uid_887,30,False,69,m,True,san leandro california,has a kid
+uid_888,26,False,67,f,True,san francisco california,no opinion
+uid_889,40,False,60,m,True,redwood city california,no opinion
+uid_890,42,False,59,f,True,daly city california,no opinion
+uid_891,33,False,65,f,False,san carlos california,no opinion
+uid_892,53,False,69,m,False,san francisco california,no opinion
+uid_893,46,False,72,m,True,brea california,does not have kids
+uid_894,21,False,65,f,False,san francisco california,no opinion
+uid_895,21,False,62,f,True,berkeley california,no opinion
+uid_896,28,False,70,m,True,oakland california,does not have kids
+uid_897,31,False,68,m,False,san francisco california,no opinion
+uid_898,32,False,61,f,True,oakland california,no opinion
+uid_899,27,True,72,m,True,daly city california,no opinion
+uid_900,45,False,65,f,True,martinez california,does not want kids
+uid_901,38,False,68,m,True,san francisco california,no opinion
+uid_902,27,False,68,m,False,san francisco california,no opinion
+uid_903,32,False,70,m,True,san francisco california,no opinion
+uid_904,30,False,68,f,True,san francisco california,no opinion
+uid_905,45,False,75,m,False,san francisco california,does not have kids but wants them
+uid_906,39,False,65,f,False,san francisco california,does not have kids
+uid_907,42,False,67,m,False,san rafael california,no opinion
+uid_908,48,False,66,m,True,san mateo california,no opinion
+uid_909,27,False,71,m,False,san francisco california,no opinion
+uid_910,52,False,71,m,False,san francisco california,does not have kids and does not want any
+uid_911,30,False,62,f,True,san francisco california,no opinion
+uid_912,36,False,71,m,False,alameda california,no opinion
+uid_913,28,False,67,f,False,san francisco california,no opinion
+uid_914,56,False,64,f,False,novato california,has kids
+uid_915,35,False,72,m,True,san francisco california,no opinion
+uid_916,28,True,72,m,False,san francisco california,no opinion
+uid_917,32,False,65,f,False,san francisco california,no opinion
+uid_918,22,False,64,f,True,martinez california,no opinion
+uid_919,19,False,62,f,True,berkeley california,does not have kids and does not want any
+uid_920,28,False,71,m,False,san francisco california,no opinion
+uid_921,24,False,66,f,True,san francisco california,no opinion
+uid_922,44,False,72,m,False,san francisco california,no opinion
+uid_923,32,False,71,m,True,san francisco california,no opinion
+uid_924,25,False,72,m,False,walnut creek california,no opinion
+uid_925,27,False,69,m,False,san francisco california,no opinion
+uid_926,19,False,66,m,True,daly city california,no opinion
+uid_927,24,False,65,f,False,san francisco california,does not have kids but might want them
+uid_928,40,True,69,m,False,vallejo california,no opinion
+uid_929,61,False,68,m,False,castro valley california,no opinion
+uid_930,28,False,71,m,True,oakland california,no opinion
+uid_931,25,False,66,f,False,san francisco california,does not have kids
+uid_932,20,False,65,m,True,hayward california,no opinion
+uid_933,22,False,64,f,False,san francisco california,no opinion
+uid_934,37,False,72,f,False,san francisco california,no opinion
+uid_935,36,False,64,f,False,san francisco california,has kids
+uid_936,36,False,64,f,False,san mateo california,no opinion
+uid_937,30,False,68,m,False,san francisco california,no opinion
+uid_938,23,False,62,f,False,san francisco california,no opinion
+uid_939,28,False,70,m,False,san pablo california,does not want kids
+uid_940,24,False,70,m,False,san francisco california,no opinion
+uid_941,27,False,72,m,False,oakland california,does not want kids
+uid_942,22,False,70,m,False,vallejo california,no opinion
+uid_943,29,False,63,f,False,berkeley california,no opinion
+uid_944,25,False,67,m,True,san francisco california,no opinion
+uid_945,26,False,60,f,True,san francisco california,no opinion
+uid_946,24,False,66,f,False,san francisco california,does not have kids
+uid_947,27,False,67,f,False,san francisco california,does not have kids
+uid_948,28,False,64,f,False,san francisco california,no opinion
+uid_949,21,False,68,m,False,berkeley california,no opinion
+uid_950,26,False,71,m,False,san francisco california,no opinion
+uid_951,23,False,70,m,True,san francisco california,no opinion
+uid_952,23,False,69,m,False,stanford california,no opinion
+uid_953,28,True,72,m,False,san francisco california,does not have kids
+uid_954,21,False,67,f,False,san francisco california,no opinion
+uid_955,25,False,65,f,False,san francisco california,no opinion
+uid_956,20,False,73,m,True,san francisco california,does not have kids and does not want any
+uid_957,26,False,61,f,False,san rafael california,does not have kids and does not want any
+uid_958,33,False,70,f,False,san francisco california,does not have kids
+uid_959,29,False,71,m,True,san francisco california,no opinion
+uid_960,27,False,64,f,False,san leandro california,does not have kids but wants them
+uid_961,20,False,60,f,True,san francisco california,no opinion
+uid_962,27,False,73,m,False,san francisco california,no opinion
+uid_963,19,False,71,m,True,oakland california,no opinion
+uid_964,20,False,70,m,True,vallejo california,no opinion
+uid_965,25,True,65,f,True,berkeley california,no opinion
+uid_966,19,False,69,m,True,san bruno california,no opinion
+uid_967,27,False,68,m,False,oakland california,does not have kids but wants them
+uid_968,18,False,61,f,True,oakland california,has kids
+uid_969,19,True,72,m,False,san francisco california,does not have kids and does not want any
+uid_970,22,False,70,m,False,oakland california,no opinion
+uid_971,40,False,70,m,True,menlo park california,has a kid
+uid_972,19,False,68,m,False,san lorenzo california,does not have kids but wants them
+uid_973,25,False,68,m,True,hercules california,does not have kids but might want them
+uid_974,23,False,72,m,True,san lorenzo california,no opinion
+uid_975,20,False,67,f,True,san francisco california,no opinion
+uid_976,23,True,65,f,False,lafayette california,no opinion
+uid_977,24,True,73,m,False,benicia california,no opinion
+uid_978,31,False,75,m,True,pacifica california,does not have kids and does not want any
+uid_979,28,False,73,m,False,san francisco california,no opinion
+uid_980,27,True,70,m,False,san francisco california,no opinion
+uid_981,31,False,68,m,True,san francisco california,no opinion
+uid_982,30,False,71,m,False,san francisco california,no opinion
+uid_983,18,False,69,m,True,san francisco california,does not have kids but might want them
+uid_984,26,False,69,m,False,menlo park california,no opinion
+uid_985,26,False,68,m,False,westlake california,does not have kids but wants them
+uid_986,39,False,62,f,False,berkeley california,has kids
+uid_987,25,False,68,m,True,san bruno california,no opinion
+uid_988,32,False,66,f,True,san francisco california,no opinion
+uid_989,31,False,68,m,True,san francisco california,no opinion
+uid_990,27,False,73,m,False,benicia california,no opinion
+uid_991,23,False,71,m,True,san francisco california,no opinion
+uid_992,30,False,73,m,False,sausalito california,no opinion
+uid_993,27,False,71,m,True,berkeley california,no opinion
+uid_994,23,False,71,m,True,redwood city california,no opinion
+uid_995,40,False,66,f,False,redwood city california,does not have kids
+uid_996,18,False,67,m,True,vallejo california,no opinion
+uid_997,21,False,70,m,False,san francisco california,does not have kids
+uid_998,30,False,73,m,False,oakland california,does not have kids
+uid_999,49,False,71,m,False,san francisco california,no opinion
+uid_1000,59,False,73,m,False,palo alto california,no opinion
